@@ -1,0 +1,6 @@
+{
+  "appTitle": "getup_standup",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
